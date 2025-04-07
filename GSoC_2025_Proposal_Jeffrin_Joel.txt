@@ -1,0 +1,26 @@
+
+Title:
+Enhancing the Folksonomy Engine for Smarter Food Tagging in Open Food Facts
+
+Description:
+Open Food Facts relies on user-generated tags (folksonomy) to categorize millions of food products. However, inconsistency, duplication, and multilingual variations make tag management challenging. This project aims to improve the Folksonomy Engine by implementing a Python-based pipeline for tag cleaning, normalization, and clustering using data analysis techniques. It will help the platform achieve better data organization, multilingual search accuracy, and a cleaner tagging system — enhancing both developer experience and user satisfaction.
+
+Expected Outcomes:
+Deliverables:
+- A tag-cleaning and normalization module (Python-based)
+- Multilingual and synonymous tag grouping system
+- Integrated test results using real product data
+- Final codebase with documentation and usage guide
+
+KPI / Benefits:
+- Improved tag consistency and reduced redundancy
+- Enhanced tag-based search and filtering accuracy
+- Easier tag management for maintainers and contributors
+
+Project Information:
+Repository: https://github.com/openfoodfacts/openfoodfacts-server
+Slack Channels: Open Food Facts Slack (ask to join via GSoC or GitHub discussions)
+Potential Mentors: To be confirmed by the Open Food Facts org; past mentors include Stéphane Gigandet, Pierre Slamich
+Project Duration: ~350 hours
+Skills Required: Python, pandas, data wrangling, regular expressions, basic NLP/text processing, working with APIs, Git
+Difficulty Rating: Intermediate
